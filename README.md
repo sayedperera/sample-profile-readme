@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Sayed*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am majoring in cybersecurity. I like sports, going to the gym, and working on my computer. 
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
